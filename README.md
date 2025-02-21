@@ -1,8 +1,6 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=%20Souharda%20Roy%20Barman%20🤖&text2=%20Coder,Developer%20and%20Debugger&width=900&height=400)
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 
 # About Me:
 🔭 I’m currently working on Kitaab and [Fillum](https://github.com/zenpai6996/Fillum-Android) <br>👯 I’m looking to collaborate on react native<br>🌱 I’m currently learning next js <br>⚡ Fun fact : Some fish fly<br>📬 How to reach me : souhardaroybarman05@gmail.com
