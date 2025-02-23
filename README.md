@@ -87,10 +87,11 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenpai6996&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" width="400"/>
     </td>
     <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=zenpai6996&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=10&margin-h=10" width="400"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=zenpai6996&theme=matrix&column=4&no-frame=true&no-bg=false&margin-w=5&margin-h=5" width="500"/>
     </td>
   </tr>
 </table>
+
 
 
 
