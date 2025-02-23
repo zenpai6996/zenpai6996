@@ -3,7 +3,8 @@
 
 
 
-## 👋 Hey there, I'm Souharda! 
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there, I'm Souharda!
+
 
 - 🔭 **Currently working on** Kitaab and [Fillum](https://github.com/zenpai6996/Fillum-Android)  
 - 👯 **Looking to collaborate on** React Native projects  
