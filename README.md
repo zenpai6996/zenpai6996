@@ -2,26 +2,98 @@
 
 
 
-# About Me:
-🔭 I’m currently working on Kitaab and [Fillum](https://github.com/zenpai6996/Fillum-Android) <br>👯 I’m looking to collaborate on react native<br>🌱 I’m currently learning next js <br>⚡ Fun fact : Some fish fly<br>📬 How to reach me : souhardaroybarman05@gmail.com
+
+## 👋 Hey there, I'm Souharda! 
+
+- 🔭 **Currently working on** Kitaab and [Fillum](https://github.com/zenpai6996/Fillum-Android)  
+- 👯 **Looking to collaborate on** React Native projects  
+- 🌱 **Currently learning** Next.js   
+- ⚡ **Fun fact** Some fish can actually fly
+- 📬 **Reach me at** [souhardaroybarman05@gmail.com](mailto:souhardaroybarman05@gmail.com) 
+
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srbii._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souharda-roy-barman-02a835343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/srbii_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souhardaroybarman05@gmail.com) 
+<table>
+  <tr>
+    <td>
+      <a href="https://instagram.com/srbii._">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/souharda-roy-barman-02a835343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://x.com/srbii_">
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+      </a>
+    </td>
+    <td>
+      <a href="mailto:souhardaroybarman05@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></td>
+    <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/></td>
+    <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></td>
+    <td><img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></td>
+    <td><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/></td>
+  </tr>
+</table>
+
 
 ## 📊 GitHub Stats:
 
-<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=zenpai6996&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=zenpai6996&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" width="450" height="200"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenpai6996&theme=algolia&hide_border=false" width="400" height="170"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenpai6996&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" width="450" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=zenpai6996&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=10&margin-h=10"/>
+    </td>
+  </tr>
+</table>
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=zenpai6996&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zenpai6996&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)
 
 
 
