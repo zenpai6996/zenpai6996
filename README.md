@@ -67,6 +67,8 @@
   <tr>
     <td><img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Express-6741D9?style=for-the-badge&logo=express&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white"/></td>
   </tr>
 </table>
 
