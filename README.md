@@ -5,7 +5,6 @@
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there, I'm Souharda!
 
-
   
 - 👯 **Looking to collaborate on** React Native projects  
 - 🌱 **Currently learning** Next.js   
@@ -13,8 +12,12 @@
 - 📬 **Reach me at** [souhardaroybarman05@gmail.com](mailto:souhardaroybarman05@gmail.com) 
 
 
+<h2 align="left">
 
-## 🌐 Socials:
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhxYTF1dnR2YzhuZnN1YXQybzQydHJ5eWQ1N2tuMzA0d2owYmc2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vlwVZMjk5ivdYwkDWT/giphy.gif" width="30px" style="vertical-align:middle">
+  <span> Socials :</span>
+</h2> 
+
 <table>
   <tr>
     <td>
@@ -43,7 +46,10 @@
 </table>
 
 
-## 💻 Tech Stack:
+<h2 align="left">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjN6ZW1qeGl6M2RtdnN4cmV3YnRxZ3RrZDBxY3d4OHpja2Y3c3ZyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZbNJojSbuJvIIVGl2t/giphy.gif" width="30px" style="vertical-align:middle">
+  <span>Tech Stack:</span>
+</h2> 
 
 <table>
   <tr>
