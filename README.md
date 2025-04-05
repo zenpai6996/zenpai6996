@@ -14,7 +14,7 @@
 
 <h2 align="left">
 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhxYTF1dnR2YzhuZnN1YXQybzQydHJ5eWQ1N2tuMzA0d2owYmc2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vlwVZMjk5ivdYwkDWT/giphy.gif" width="30px" style="vertical-align:middle">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhxYTF1dnR2YzhuZnN1YXQybzQydHJ5eWQ1N2tuMzA0d2owYmc2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vlwVZMjk5ivdYwkDWT/giphy.gif" width="25px" style="vertical-align:middle">
   <span> Socials :</span>
 </h2> 
 
