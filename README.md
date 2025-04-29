@@ -1,5 +1,5 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=%20Souharda%20Roy%20Barman%20🤖&text2=%20Coder,Developer%20and%20Debugger&width=900&height=400)
-
+<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake Animation" width="100%">
 
 
 
