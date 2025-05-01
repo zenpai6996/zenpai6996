@@ -88,10 +88,9 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=zenpai6996&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" width="400"/>
-    </td>
+<img src="https://github-readme-stats.vercel.app/api?username=zenpai6996&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"     width="400"/>       </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenpai6996&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" width="400"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenpai6996&theme=algolia&hide_border=false&layout=compact" width="400"/>
     </td>
   </tr>
 </table>
