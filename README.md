@@ -1,5 +1,5 @@
 
-<h1 align="center">  Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Souharda!</h1>
+<h1 align="center">  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  Hey there, I'm Souharda!</h1>
 
 
 <img src="https://github.com/zenpai6996/zenpai6996/blob/output/github-snake-dark.svg" alt="Snake Animation" width="100%">
@@ -8,10 +8,10 @@
 <h2 align="left">
 
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZ1M2RyMTdzc3Y5bTZmems1MjJrenhmc2pvY2t1ZWQyYm9uYnNuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ObNTw8Uzwy6KQ/giphy.gif" width="25px" style="vertical-align:middle">
-  <span> Project Showcase </span>
+  <span> Projects </span>
 </h2> 
 
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <td width="50%">
@@ -39,7 +39,9 @@
       </td>
       <td width="50%">
         <p align="center">
-          <img src="https://dummyimage.com/400x200/000/fff&text=(⊙_⊙)？" width="100%" alt="Coming Soon"/>
+          <a href="https://youtu.be/xvFZjo5PgG0?si=oJtJuDAGMWws-HX6">
+                      <img src="https://dummyimage.com/400x200/000/fff&text=(⊙_⊙)？" width="100%" alt="(⊙_⊙)？"/>
+          </a>
         </p>
       </td>
     </tr>
@@ -59,19 +61,17 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
       </a>
     </td>
-    <td>
+  <td>
       <a href="https://www.linkedin.com/in/souharda-roy-barman-02a835343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
+  </td>
+  <td>
       <a href="https://x.com/srbii_">
         <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
       </a>
-    </td>
-    <td>
+  </td>
+  <td>
       <a href="mailto:souhardaroybarman05@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
       </a>
