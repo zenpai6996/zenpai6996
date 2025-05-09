@@ -2,23 +2,54 @@
 <h1 align="center">  Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Souharda!</h1>
 
 
-<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake Animation" width="100%">
-
-
-
-
-
+<img src="https://github.com/zenpai6996/zenpai6996/blob/output/github-snake-dark.svg" alt="Snake Animation" width="100%">
   
-- 👯 **Looking to collaborate on** React Native projects  
-- 🌱 **Currently learning** Next.js   
-- ⚡ **Fun fact** Some fish can actually fly
-- 📬 **Reach me at** [souhardaroybarman05@gmail.com](mailto:souhardaroybarman05@gmail.com) 
 
+<h2 align="left">
+
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZ1M2RyMTdzc3Y5bTZmems1MjJrenhmc2pvY2t1ZWQyYm9uYnNuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ObNTw8Uzwy6KQ/giphy.gif" width="25px" style="vertical-align:middle">
+  <span> Project Showcase </span>
+</h2> 
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <p align="center">
+          <a href="https://github.com/zenpai6996/Summafy-deployed" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenpai6996&repo=Summafy-deployed&theme=gruvbox&hide_border=true" width="100%" alt="Summafy Project"/>
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <p align="center">
+          <a href="https://github.com/zenpai6996/Kitaab-android" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenpai6996&repo=Kitaab-android&theme=gruvbox&hide_border=true" width="100%" alt="Kitaab Project"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <p align="center">
+          <a href="https://github.com/zenpai6996/Fillum-Android" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenpai6996&repo=Fillum-Android&theme=gruvbox&hide_border=true" width="100%" alt="Fillum Project"/>
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <p align="center">
+          <img src="https://dummyimage.com/400x200/000/fff&text=(⊙_⊙)？" width="100%" alt="Coming Soon"/>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h2 align="left">
 
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhxYTF1dnR2YzhuZnN1YXQybzQydHJ5eWQ1N2tuMzA0d2owYmc2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vlwVZMjk5ivdYwkDWT/giphy.gif" width="25px" style="vertical-align:middle">
-  <span> Socials :</span>
+  <span> Socials </span>
 </h2> 
 
 <table>
@@ -50,51 +81,43 @@
 
 
 <h2 align="left">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjN6ZW1qeGl6M2RtdnN4cmV3YnRxZ3RrZDBxY3d4OHpja2Y3c3ZyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZbNJojSbuJvIIVGl2t/giphy.gif" width="30px" style="vertical-align:middle">
-  <span>Tech Stack:</span>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXgxcmVsYXlwdHpjYjc4c2hrNjJvNWgzYXQxNDJveG5mNDBlZXNnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XHAv3GveJMXMXSumkO/giphy.gif" width="30px" style="vertical-align:middle">
+  <span>Tech Stack</span>
 </h2> 
 
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></td>
     <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/></td>
+     <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/></td>
     <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></td>
     <td><img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></td>
+    <td><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Express-6741D9?style=for-the-badge&logo=express&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white"/></td>
   </tr>
 </table>
 
 
-## 📊 GitHub Stats:
-
+<h2 align="left">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5xaWU3cGlvY2x6MjM4dGg5dTQ5dnJpbDl0dTQyOWM0bTM4MG5kNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Whn07GaZU9uUZGTnG8/giphy.gif" width="30px" style="vertical-align:middle">
+  <span>Github Stats</span>
+</h2> 
 
 <table>
   <tr>
     <td>
-<img src="https://github-readme-stats.vercel.app/api?username=zenpai6996&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"     width="400"/>       </td>
+      
+[![zenpai6996's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenpai6996&theme=gruvbox&hide=stars&count_private=true&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+      </td>
     <td>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenpai6996&theme=algolia&hide_border=false&layout=compact" width="400"/>
+      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenpai6996&theme=gruvbox&layout=donut&hide=html,css&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
     </td>
   </tr>
 </table>
-
 
 
 
