@@ -39,7 +39,7 @@
       </td>
       <td width="50%">
         <p align="center">
-          <a href="https://youtu.be/xvFZjo5PgG0?si=oJtJuDAGMWws-HX6">
+          <a >
                       <img src="https://dummyimage.com/400x200/000/fff&text=(⊙_⊙)？" width="100%" alt="(⊙_⊙)？"/>
           </a>
         </p>
