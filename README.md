@@ -2,51 +2,9 @@
 <h1 align="center">  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  Hey there, I'm Souharda!</h1>
 
 
-<img src="https://github.com/zenpai6996/zenpai6996/blob/output/github-snake-dark.svg" alt="Snake Animation" width="100%">
-  
 
-<h2 align="left">
 
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZ1M2RyMTdzc3Y5bTZmems1MjJrenhmc2pvY2t1ZWQyYm9uYnNuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ObNTw8Uzwy6KQ/giphy.gif" width="25px" style="vertical-align:middle">
-  <span> Projects </span>
-</h2> 
 
-<div align="left">
-  <table>
-    <tr>
-      <td width="50%">
-        <p align="center">
-          <a href="https://github.com/zenpai6996/Summafy-deployed" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenpai6996&repo=Summafy-deployed&theme=gruvbox&hide_border=true" width="100%" alt="Summafy Project"/>
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <p align="center">
-          <a href="https://github.com/zenpai6996/Kitaab-android" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenpai6996&repo=Kitaab-android&theme=gruvbox&hide_border=true" width="100%" alt="Kitaab Project"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <p align="center">
-          <a href="https://github.com/zenpai6996/Fillum-Android" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenpai6996&repo=Fillum-Android&theme=gruvbox&hide_border=true" width="100%" alt="Fillum Project"/>
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <p align="center">
-          <a >
-                      <img src="https://dummyimage.com/400x200/000/fff&text=(⊙_⊙)？" width="100%" alt="(⊙_⊙)？"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <h2 align="left">
 
@@ -62,7 +20,7 @@
       </a>
     </td>
   <td>
-      <a href="https://www.linkedin.com/in/souharda-roy-barman-02a835343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+      <a href="www.linkedin.com/in/souharda-roy-barman-profile">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
       </a>
   </td>
@@ -101,6 +59,50 @@
 </table>
 
 
+
+  
+
+<h2 align="left">
+
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZ1M2RyMTdzc3Y5bTZmems1MjJrenhmc2pvY2t1ZWQyYm9uYnNuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ObNTw8Uzwy6KQ/giphy.gif" width="25px" style="vertical-align:middle">
+  <span> Projects </span>
+</h2> 
+<div align="left">
+  <table>
+    <tr>
+      <td width="50%">
+        <p align="center">
+          <a href="https://github.com/zenpai6996/Summafy-deployed" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenpai6996&repo=Summafy-deployed&theme=gruvbox&hide_border=true" width="100%" alt="Summafy Project"/>
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <p align="center">
+          <a href="https://github.com/zenpai6996/Kitaab-android" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenpai6996&repo=Kitaab-android&theme=gruvbox&hide_border=true" width="100%" alt="Kitaab Project"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <p align="center">
+          <a href="https://github.com/zenpai6996/Fillum-Android" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenpai6996&repo=Fillum-Android&theme=gruvbox&hide_border=true" width="100%" alt="Fillum Project"/>
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <p align="center">
+          <a >
+                      <img src="https://dummyimage.com/400x200/000/fff&text=(⊙_⊙)？" width="100%" alt="(⊙_⊙)？"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 <h2 align="left">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5xaWU3cGlvY2x6MjM4dGg5dTQ5dnJpbDl0dTQyOWM0bTM4MG5kNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Whn07GaZU9uUZGTnG8/giphy.gif" width="30px" style="vertical-align:middle">
   <span>Github Stats</span>
@@ -118,6 +120,7 @@
     </td>
   </tr>
 </table>
+<img src="https://github.com/zenpai6996/zenpai6996/blob/output/github-snake-dark.svg" alt="Snake Animation" width="100%">
 
 
 
