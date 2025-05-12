@@ -10,7 +10,7 @@
 ```ts
 class Souharda {
   pronouns = "He/Him";
-  currentFocus = "Three.js & GoLang 🌱";
+  currentFocus = "Three.js & Go 🌱";
   specialties = ["React.js", "Next.js", "TypeScript", "React Native"];
   funFact = "I debug code better with coffee ☕ ";
   getInTouch() {
