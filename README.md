@@ -1,8 +1,23 @@
 
 <h1 align="center">  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  Hey there, I'm Souharda!</h1>
 
+<h2 align="left">
 
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZkc3FzOGppZnBuOXN0MWplbnA2dzJ1aGd4cnhrcDVoMWV3bXI0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f7omQNmgiyjj5sffvZ/giphy.gif" width="50px" style="vertical-align:middle">
+  <span> About Me </span>
+</h2> 
 
+```ts
+class Souharda {
+  pronouns = "He/Him";
+  currentFocus = "Three.js & GoLang 🌱";
+  specialties = ["React.js", "Next.js", "TypeScript", "React Native"];
+  funFact = "I debug code better with coffee ☕ ";
+  getInTouch() {
+    return "souhardaroybarman05@gmail.com";
+  }
+}
+```
 
 
 
