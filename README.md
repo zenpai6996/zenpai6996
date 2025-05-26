@@ -136,7 +136,6 @@ class Souharda {
     </td>
   </tr>
 </table>
-<img src="https://github.com/zenpai6996/zenpai6996/blob/output/github-snake-dark.svg" alt="Snake Animation" width="100%">
 
 
 
