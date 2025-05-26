@@ -111,8 +111,8 @@ class Souharda {
       </td>
       <td width="50%">
         <p align="center">
-          <a >
-                      <img src="https://dummyimage.com/400x200/000/fff&text=(⊙_⊙)？" width="100%" alt="(⊙_⊙)？"/>
+         <a href="https://github.com/zenpai6996/Spendly-backend" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenpai6996&repo=Spendly-backend&theme=gruvbox&hide_border=true" width="100%" alt="Fillum Project"/>
           </a>
         </p>
       </td>
