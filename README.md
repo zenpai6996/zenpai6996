@@ -105,7 +105,7 @@ class Souharda {
       <td width="50%">
         <p align="center">
           <a href="https://github.com/zenpai6996/Spendly-Frontend" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenpai6996&repo=Spendly-frontend&theme=gruvbox&hide_border=true" width="100%" alt="Fillum Project"/>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenpai6996&repo=Spendly-backend&theme=gruvbox&hide_border=true" width="100%" alt="Fillum Project"/>
           </a>
         </p>
       </td>
