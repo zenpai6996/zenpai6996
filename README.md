@@ -11,7 +11,7 @@
 class Souharda {
   name = Souharda Roy Barman
   pronouns = "He/Him";
-  currentFocus = "Three.js & Go 🌱";
+  currentFocus = " Go 🌱";
   specialties = ["React.js", "Next.js", "TypeScript", "React Native"];
   funFact = "I debug code better with coffee ☕ ";
   getInTouch() {
