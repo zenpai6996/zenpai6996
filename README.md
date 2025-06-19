@@ -128,7 +128,7 @@ class Souharda {
   <tr>
     <td>
       
-[![zenpai6996's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenpai6996&theme=gruvbox&hide=stars&count_private=true&show_icons=true&rank_icon=github)](https://github.com/zenpai6996)
+[![zenpai6996's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenpai6996&theme=gruvbox&hide=stars&count_private=true&show_icons=true&rank_icon=default)](https://github.com/zenpai6996)
       </td>
     <td>
       
