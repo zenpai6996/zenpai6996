@@ -111,8 +111,8 @@ class Souharda {
       </td>
       <td width="50%">
         <p align="center">
-         <a href="https://github.com/zenpai6996/Fillum-Android" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenpai6996&repo=Fillum-Android&theme=gruvbox&hide_border=true" width="100%" alt="Fillum Project"/>
+         <a href="https://github.com/zenpai6996/FlowState-Frontend" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenpai6996&repo=Flowstate-Frontend&theme=gruvbox&hide_border=true" width="100%" alt="Fillum Project"/>
           </a>
         </p>
       </td>
