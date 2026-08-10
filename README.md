@@ -108,23 +108,9 @@ class Souharda {
     </tr>
   </table>
 </div>
-<h2 align="left">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5xaWU3cGlvY2x6MjM4dGg5dTQ5dnJpbDl0dTQyOWM0bTM4MG5kNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Whn07GaZU9uUZGTnG8/giphy.gif" width="30px" style="vertical-align:middle">
-  <span>Github Stats</span>
-</h2> 
+ 
 
-<table>
-  <tr>
-    <td>
-      
-[![zenpai6996's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenpai6996&theme=gruvbox&hide=stars&count_private=true&show_icons=true&rank_icon=default)](https://github.com/zenpai6996)
-      </td>
-    <td>
-      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenpai6996&theme=gruvbox&layout=donut&hide=html,css&show_icons=true&hide_border=true)](https://github.com/zenpai6996)
-    </td>
-  </tr>
-</table>
+
 
 
 
